@@ -1,5 +1,7 @@
 # gamedeal
 
+Alojafdo en :https://proyectofinal-19768.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
